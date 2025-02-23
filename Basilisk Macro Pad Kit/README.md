@@ -19,7 +19,7 @@ This repository is organized into the following sections:
 - **Printed Files Folder:**
   - STL files for 3D printing the enclosure.
 - **Video Tutorial (Coming Soon):**
-  - A step-by-step video guide to complement the build manual.
+  - A step-by-step video guide to compliment the build manual.
 
 ---
 
