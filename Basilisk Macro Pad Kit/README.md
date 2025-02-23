@@ -7,7 +7,7 @@ Welcome to the **Basilisk Macro Pad Kit** repository! 🛠️ This is the offici
 ## 📌 About the Basilisk Macro Pad Kit
 The **Basilisk Macro Pad Kit** is a **DIY**, fully customizable **10-key macro pad** designed for **productivity, gaming, and creative workflows**. With **RGB lighting**, **hot-swappable switches**, and **flexible firmware**, this kit gives you full control over your macros.
 
-🎨 **Features:**
+🎨 **Features:**  
 ✔️ Fully customizable key mappings  
 ✔️ Open-source firmware (KMK with POG)  
 ✔️ RGB backlighting for each key  
