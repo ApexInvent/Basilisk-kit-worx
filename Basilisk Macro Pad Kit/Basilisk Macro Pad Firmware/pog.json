@@ -1,0 +1,163 @@
+{
+    "id": "01JMHKK0ZAQQZPCT9W4NA7F3AR",
+    "name": "Basilisk MacroPad",
+    "manufacturer": "Apex Invent",
+    "description": "Your very own DIY MacroPad",
+    "tags": [
+        "10 Button"
+    ],
+    "controller": "pi-pico",
+    "keyboardType": "normal",
+    "wiringMethod": "matrix",
+    "diodeDirection": "COL2ROW",
+    "rows": 3,
+    "cols": 4,
+    "pins": 0,
+    "rowPins": [
+        "7",
+        "8",
+        "9"
+    ],
+    "colPins": [
+        "15",
+        "14",
+        "12",
+        "11"
+    ],
+    "directPins": [],
+    "encoders": [],
+    "layouts": [],
+    "keys": [
+        {
+            "x": 0,
+            "y": 0,
+            "idx": 0
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "idx": 1
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "idx": 2
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "idx": 3
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "idx": 4
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "idx": 5
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "idx": 6
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "idx": 7
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "idx": 8
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "idx": 9
+        }
+    ],
+    "keymap": [
+        [
+            "KC.KP_0",
+            "KC.KP_1",
+            "KC.KP_2",
+            "KC.KP_3",
+            "KC.KP_4",
+            "KC.KP_5",
+            "KC.KP_6",
+            "KC.KP_7",
+            "KC.KP_8",
+            "KC.KP_9",
+            "KC.TRNS",
+            "KC.TRNS"
+        ]
+    ],
+    "encoderKeymap": [
+        []
+    ],
+    "layers": [
+        {
+            "name": ""
+        }
+    ],
+    "split": false,
+    "splitPinA": "",
+    "splitPinB": "",
+    "splitSide": "left",
+    "vbusPin": "VBUS_SENSE",
+    "splitUsePio": true,
+    "splitFlip": false,
+    "spitUartFlip": false,
+    "coordMap": [
+        [
+            "003",
+            "spc",
+            "002",
+            "001",
+            "000"
+        ],
+        [
+            "spc",
+            "spc",
+            "006",
+            "005",
+            "004"
+        ],
+        [
+            "spc",
+            "spc",
+            "010",
+            "009",
+            "008"
+        ]
+    ],
+    "pinPrefix": "gp",
+    "coordMapSetup": false,
+    "rgbPin": "board.GP13",
+    "rgbNumLeds": 10,
+    "rgbOptions": {
+        "animationMode": 7,
+        "hueDefault": 162,
+        "satDefault": 255,
+        "valDefault": 128,
+        "animationSpeed": 1,
+        "breatheCenter": 1,
+        "knightEffectLength": 3
+    },
+    "kbFeatures": [
+        "basic",
+        "serial",
+        "oneshot",
+        "tapdance",
+        "holdtap",
+        "mousekeys",
+        "combos",
+        "macros",
+        "rgb"
+    ],
+    "flashingMode": "automatic",
+    "lastEdited": "2025-02-23 18:12"
+}
