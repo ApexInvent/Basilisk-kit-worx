@@ -23,7 +23,7 @@ This repository is structured as follows:
 💾 **Firmware Folder** – Pre-configured **KMK firmware files** for the macro pad.  
 🖨️ **Printed Files Folder** – **STL files** for 3D printing the enclosure.  
 🛠️ **STEP Files Folder** – STEP files for easy modifications in CAD software.  
-🔥 **Flash_Nuke.uf2 File** – A reset file that completely **wipes all data** from the Pico. 
+🔥 **Flash_Nuke.uf2 File** – A reset file that completely **wipes all data** from the Pico.  
 🎥 **Video Tutorial (Coming Soon)** – A step-by-step **video guide** to complement the build manual.  
 
 ---
