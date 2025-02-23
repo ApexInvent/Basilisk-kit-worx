@@ -1,70 +1,79 @@
-# Basilisk Macro Pad Kit
+# 🔥 Basilisk Macro Pad Kit 🔥
 
-Welcome to the **Basilisk Macro Pad Kit** repository! This is the official open-source hub for everything related to the Basilisk Macro Pad Kit, part of Apex Invent's development division. Here, you'll find all the resources needed to build, program, and enjoy your custom macro pad.
-
----
-
-## About the Basilisk Macro Pad Kit
-The Basilisk Macro Pad Kit is a DIY project that allows you to create a fully customizable macro pad, perfect for productivity, gaming, or creative workflows. The kit includes everything you need to get started, with the flexibility to personalize it to your liking.
+Welcome to the **Basilisk Macro Pad Kit** repository! 🛠️ This is the official open-source hub for everything related to the Basilisk Macro Pad Kit, developed by **Apex Invent**. Here, you'll find all the resources needed to **build, program, and customize** your macro pad.
 
 ---
 
-## Repository Contents
-This repository is organized into the following sections:
+## 📌 About the Basilisk Macro Pad Kit
+The **Basilisk Macro Pad Kit** is a **DIY**, fully customizable **10-key macro pad** designed for **productivity, gaming, and creative workflows**. With **RGB lighting**, **hot-swappable switches**, and **flexible firmware**, this kit gives you full control over your macros.
 
-- **Build Manual:**
-  - A detailed PDF guide to walk you through the assembly process.
-- **Firmware Folder:**
-  - Pre-configured KMK firmware files for your macro pad.
-- **Printed Files Folder:**
-  - STL files for 3D printing the enclosure.
-- **Video Tutorial (Coming Soon):**
-  - A step-by-step video guide to compliment the build manual.
+🎨 **Features:**
+✔️ Fully customizable key mappings  
+✔️ Open-source firmware (KMK with POG)  
+✔️ RGB backlighting for each key  
+✔️ USB Type-C for easy connectivity  
+✔️ DIY-friendly with a **detailed build guide**
 
 ---
 
-## Bill of Materials (BOM)
-Here’s what’s included in the kit:
+## 📂 Repository Contents
+This repository is structured as follows:
 
-- **8x 8mm M3 Cap Screws**
-- **1x 6mm M3 Cap Screws**
-- **9x M3 Heat Inserts**
-- **3x RGB LED Strips**
-- **10x Clear Keycaps**
-- **10x Diodes**
-- **10x MX Style Switches (Blue or Brown)**
-- **1x Raspberry Pi Pico (Type C connector)**
-- **30AWG Wires for LED Connections**
-- **26AWG Wires for button Connections**
-
-### What You’ll Need:
-- Soldering Iron
-- Solder
-- Solder Flux (Optional)
-- USB Type-C Cable
-- 3D Printer (to print the enclosure)
-
-For detailed assembly instructions, refer to the **Build Manual** included in this repository.
+📖 **Build Manual** – A **step-by-step PDF** to guide you through the assembly process.  
+💾 **Firmware Folder** – Pre-configured **KMK firmware files** for the macro pad.  
+🖨️ **Printed Files Folder** – **STL files** for 3D printing the enclosure.  
+🔥 **Flash_Nuke.uf2 File** – A reset file that completely **wipes all data** from the Pico. 
+🎥 **Video Tutorial (Coming Soon)** – A step-by-step **video guide** to complement the build manual.  
 
 ---
 
-## Shop the Kit
-The complete Basilisk Macro Pad Kit is available for purchase on the **[Apex Invent Shop](https://apexinvent.co.za/products/basilisk-macropad-electronics-kit)**. Visit our shop to get everything you need in one package!
+## 🛠️ Bill of Materials (BOM)
+Here’s what’s included in the **Basilisk Macro Pad Kit**:
+
+🔩 **Hardware:**
+- 🛠️ **8x** 8mm M3 Cap Screws  
+- 🔩 **1x** 6mm M3 Cap Screw  
+- 🔥 **9x** M3 Heat Inserts  |
+- 🛠️ **1x** Keycap Puller 
+
+💡 **Electronics:**
+- 🌈 **3x** RGB LED Strips  
+- 🔘 **10x** Clear Keycaps  
+- 🎛️ **10x** MX-Style Switches (Blue or Brown)  
+- 💾 **1x** Raspberry Pi Pico (Type-C)  
+- 📏 **10x** Diodes  
+- 🔌 **30AWG & 26AWG Wires** for LED & button connections  
+
+📌 **What You’ll Need:**
+- 🔥 Soldering Iron & Solder  
+- 🛠️ Solder Flux (Optional)  
+- 🔌 USB Type-C Cable  
+- 🖨️ 3D Printer (for printing the enclosure)  
+
+For detailed **assembly instructions**, check the **Build Manual** in this repository.
 
 ---
 
-## Contribution
-We encourage community contributions! To contribute:
-
-1. Fork this repository.
-2. Make your improvements or additions.
-3. Submit a pull request with a clear description of your updates.
+## 🛒 Get Your Kit!
+The complete **Basilisk Macro Pad Kit** is available for purchase at the **[Apex Invent Shop](https://apexinvent.co.za/products/basilisk-macropad-electronics-kit)**. Visit our shop to grab yours! 🚀
 
 ---
 
-## License
-This repository is shared under the **[MIT License](LICENSE)**, promoting open-source collaboration.
+## 🤝 Contributing
+We **welcome community contributions!** If you have improvements or customizations to share:
+
+1️⃣ **Fork** this repository  
+2️⃣ **Make your changes** (firmware tweaks, case mods, etc.)  
+3️⃣ **Submit a pull request** with a clear description  
+
+Let's build something awesome together! 🛠️🔥
 
 ---
 
-Thank you for choosing the Basilisk Macro Pad Kit. We’re excited to see how you customize and use it!
+## 📜 License
+This repository is shared under the **[MIT License](LICENSE)**, supporting open-source collaboration.
+
+---
+
+Thank you for choosing the **Basilisk Macro Pad Kit**! 🎉 We can’t wait to see your custom setups and mods! 🚀  
+**Follow us on [YouTube](https://www.youtube.com/@ApexInvent) for updates!** 🎥  
