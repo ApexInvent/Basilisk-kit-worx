@@ -47,7 +47,7 @@ For detailed assembly instructions, refer to the **Build Manual** included in th
 ---
 
 ## Shop the Kit
-The complete Basilisk Macro Pad Kit is available for purchase on the **[Apex Invent Shop]((https://apexinvent.co.za/products/basilisk-macropad-electronics-kit))**. Visit our shop to get everything you need in one package!
+The complete Basilisk Macro Pad Kit is available for purchase on the **[Apex Invent Shop](https://apexinvent.co.za/products/basilisk-macropad-electronics-kit)**. Visit our shop to get everything you need in one package!
 
 ---
 
