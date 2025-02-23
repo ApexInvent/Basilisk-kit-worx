@@ -26,14 +26,16 @@ This repository is organized into the following sections:
 ## Bill of Materials (BOM)
 Here’s what’s included in the kit:
 
-- **8x M3 Cap Screws**
-- **8x M3 Heat Inserts**
+- **8x 8mm M3 Cap Screws**
+- **1x 6mm M3 Cap Screws**
+- **9x M3 Heat Inserts**
 - **3x RGB LED Strips**
 - **10x Clear Keycaps**
 - **10x Diodes**
 - **10x MX Style Switches (Blue or Brown)**
 - **1x Raspberry Pi Pico (Type C connector)**
-- **26AWG Wires for Connections**
+- **30AWG Wires for LED Connections**
+- **26AWG Wires for button Connections**
 
 ### What You’ll Need:
 - Soldering Iron
