@@ -1,4 +1,4 @@
-# Nuke.uf2 - Full Reset for Your Pico
+# Full Reset for Your Pico
 
 ## ⚠️ WARNING: This Will Erase All Data ⚠️
 
